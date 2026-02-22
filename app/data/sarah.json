@@ -1,0 +1,104 @@
+{
+  "name": "Sarah Mitchell",
+  "location": "Bristol, UK",
+  "posts": [
+    {
+      "id": 1,
+      "date": "2021-03-12",
+      "caption": "Our little miracle is finally here 💙 Baby James, 6lbs 4oz, born at Southmead Hospital. We are so in love. #newborn #blessed #southmeadhospital",
+      "image": "newborn.jpg",
+      "imageDescription": "A newborn baby in a hospital crib, medical equipment visible in background, NHS branding on the wall"
+    },
+    {
+      "id": 2,
+      "date": "2021-06-20",
+      "caption": "First trip to the park! James loved the sunshine ☀️ St Andrews Park is our favourite spot",
+      "image": "park.jpg",
+      "imageDescription": "Baby in a pram in a park, street signs visible, residential houses in background"
+    },
+    {
+      "id": 3,
+      "date": "2021-11-08",
+      "caption": "Tough week. James has been wheezing again, back to the GP tomorrow. The doctor thinks it might be early signs of asthma. Fingers crossed it's nothing serious 🤞",
+      "image": null,
+      "imageDescription": null
+    },
+    {
+      "id": 4,
+      "date": "2022-02-14",
+      "caption": "Our Valentine 💕 This little boy is our whole world. Can't believe he's almost 1!",
+      "image": "valentine.jpg",
+      "imageDescription": "Baby sitting in a living room, modest furnishings visible, small terraced house interior"
+    },
+    {
+      "id": 5,
+      "date": "2022-08-03",
+      "caption": "Staycation this year but James doesn't mind! Weston-super-Mare with Nana. No complaints from us 🌊",
+      "image": "beach.jpg",
+      "imageDescription": "Toddler on a beach, UK seaside town visible in background"
+    },
+    {
+      "id": 6,
+      "date": "2022-12-01",
+      "caption": "Had to pick James up early from nursery again today. His inhaler is basically a permanent fixture now. Poor love, asthma is no joke in winter 😔 #asthma #toddlerlife",
+      "image": null,
+      "imageDescription": null
+    },
+    {
+      "id": 7,
+      "date": "2023-03-15",
+      "caption": "Big news! Mark got made redundant last week. Scary times but we'll get through it. Proud of how calm he's been. James keeps us smiling through everything 💙",
+      "image": null,
+      "imageDescription": null
+    },
+    {
+      "id": 8,
+      "date": "2023-06-10",
+      "caption": "First day at St Mary's Primary! Can't believe my baby is in reception already 😭 So proud of you James. Mrs Thompson's class here we come! #firstdayofschool #stmarysbristol",
+      "image": "school.jpg",
+      "imageDescription": "Small child in school uniform outside school gates, St Mary's Primary School sign visible"
+    },
+    {
+      "id": 9,
+      "date": "2023-09-22",
+      "caption": "Parent's evening tonight. Teacher says James is struggling to sit still and focus. She mentioned ADHD assessment might be worth exploring. Lots to think about 😟",
+      "image": null,
+      "imageDescription": null
+    },
+    {
+      "id": 10,
+      "date": "2024-01-17",
+      "caption": "ADHD assessment confirmed today. Part of me is relieved we finally have answers. It's been a long road. James is perfect just the way he is 💙 #ADHD #ADHDmum #neurodivergent",
+      "image": null,
+      "imageDescription": null
+    },
+    {
+      "id": 11,
+      "date": "2024-04-05",
+      "caption": "Managed a long weekend in Tenerife! First proper holiday since before James was born. Needed this so much 🌞",
+      "image": "holiday.jpg",
+      "imageDescription": "Child on a budget hotel balcony, basic pool visible below, budget airline luggage tags visible"
+    },
+    {
+      "id": 12,
+      "date": "2024-08-30",
+      "caption": "Mark starts his new job Monday! What a relief. It's been 18 months and honestly it's taken its toll on all of us. Fresh start 🙏",
+      "image": null,
+      "imageDescription": null
+    },
+    {
+      "id": 13,
+      "date": "2025-01-10",
+      "caption": "James had another meltdown at school today. The ADHD meds help but some days are just really hard. Being a special needs mum is the hardest and most rewarding thing I've ever done 💙 #ADHDparenting #meltdown",
+      "image": null,
+      "imageDescription": null
+    },
+    {
+      "id": 14,
+      "date": "2025-06-15",
+      "caption": "End of Year 2! James has come so far this year. So proud of this boy despite everything 💙",
+      "image": "school2.jpg",
+      "imageDescription": "Child holding school report outside terraced house, same house as earlier posts visible"
+    }
+  ]
+}
