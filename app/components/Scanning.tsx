@@ -39,7 +39,7 @@ export default function Scanning({ onComplete }: { onComplete: (findings: Findin
     { finding: "Family home located in Bristol residential area", category: "Location", severity: "medium", dataPoint: "St Andrews Park", date: "2021-06-20", postId: 2 },
     { finding: "Father experienced 18 months of unemployment affecting family stability", category: "Family", severity: "high", dataPoint: "18 months and honestly it's taken its toll", date: "2024-08-30", postId: 12 },
     { finding: "Child flagged for ADHD as early as age 2 by school staff", category: "Educational", severity: "medium", dataPoint: "struggling to sit still and focus", date: "2023-09-22", postId: 9 },
-    { finding: "Child's full name and birth details publicly disclosed", category: "Family", severity: "high", dataPoint: "Baby James, 6lbs 4oz", date: "2021-03-12", postId: 1 },
+    { finding: "Child's full name and birth details publicly disclosed", category: "Family", severity: "high", dataPoint: "Baby SARAH, 6lbs 4oz", date: "2021-03-12", postId: 1 },
     { finding: "Child uses budget airline travel, indicating cost-conscious family", category: "Financial", severity: "low", dataPoint: "budget airline luggage tags", date: "2024-04-05", postId: 11 },
     { finding: "Mother shows elevated stress patterns in posting behaviour", category: "Behavioural", severity: "medium", dataPoint: "Being a special needs mum is the hardest", date: "2025-01-10", postId: 13 },
     { finding: "Child's medical history shared publicly without consent", category: "Health", severity: "high", dataPoint: "asthma is no joke in winter", date: "2022-12-01", postId: 6 },
