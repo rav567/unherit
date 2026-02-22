@@ -103,7 +103,7 @@ export default function Download({ findings, onComplete }: Props) {
           <div className="flex items-center justify-between mb-6">
             <div>
               <p className="text-white/20 text-xs font-mono tracking-widest uppercase mb-1">Shadow Profile — Neutralised</p>
-              <p className="text-white font-mono text-lg">MITCHELL, James — Bristol, UK</p>
+              <p className="text-white font-mono text-lg">MITCHELL, Sarah  — Bristol, UK</p>
             </div>
             <div className="flex items-center gap-4 font-mono">
               <div className="flex flex-col items-center">
@@ -164,11 +164,11 @@ export default function Download({ findings, onComplete }: Props) {
               <p>FILED BY:         PARENT POSTS</p>
               <p>WITHOUT:          YOUR CHILD'S CONSENT</p>
               <p>CURRENT TITLE:    DATA BROKER SYNDICATE</p>
-              <p>RIGHTFUL OWNER:   JAMES MITCHELL</p>
+              <p>RIGHTFUL OWNER:   Sarah MITCHELL</p>
               <p>STATUS:           <span className="text-yellow-400">DISPUTED</span></p>
               <p>{'─'.repeat(45)}</p>
               <p className="text-white/30 mt-2">THIS PROPERTY WAS NEVER YOURS TO LOSE.</p>
-              <p className="text-white/30">IT WAS TAKEN BEFORE JAMES KNEW IT EXISTED.</p>
+              <p className="text-white/30">IT WAS TAKEN BEFORE SARAH KNEW IT EXISTED.</p>
             </div>
           </motion.div>
 
@@ -283,7 +283,7 @@ export default function Download({ findings, onComplete }: Props) {
               {deedFiled && <span className="text-green-400 text-xs font-mono ml-auto">✓ FILED</span>}
             </div>
             <p className="text-white/40 text-sm mb-4">
-              File your permanent consent deed. Hosted publicly at unherit.com/claim/james-mitchell. 
+              File your permanent consent deed. Hosted publicly at unherit.com/claim/Sarah-mitchell. 
               From this moment, any use of this data requires consent.
             </p>
             <button
@@ -294,7 +294,7 @@ export default function Download({ findings, onComplete }: Props) {
                   : 'bg-white text-black hover:bg-white/90'
               }`}
             >
-              {deedFiled ? '✓ DEED FILED — unherit.com/claim/james-mitchell' : 'FILE YOUR DEED →'}
+              {deedFiled ? '✓ DEED FILED — unherit.com/claim/Sarah-mitchell' : 'FILE YOUR DEED →'}
             </button>
           </motion.div>
         </div>
@@ -360,7 +360,7 @@ export default function Download({ findings, onComplete }: Props) {
         <div className="flex flex-col gap-1">
             <p className="text-white/30 text-xs font-mono tracking-widest uppercase">Next Step</p>
             <h3 className="text-white text-lg font-bold">Your data is generating money. You should see it.</h3>
-            <p className="text-white/40 text-sm">214 brokers are actively selling James's profile. View your plan and start earning dividends from your own data.</p>
+            <p className="text-white/40 text-sm">214 brokers are actively selling Sarah's profile. View your plan and start earning dividends from your own data.</p>
         </div>
         <button
             onClick={onComplete}

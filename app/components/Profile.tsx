@@ -170,7 +170,7 @@ export default function Profile({ findings, onProtect }: Props) {
             <div className="flex items-center justify-between border-b border-white/10 pb-4">
               <div>
                 <p className="text-white/20 text-xs font-mono tracking-widest uppercase">Classified — Data Broker Report 2036</p>
-                <p className="text-white text-lg font-mono mt-1">MITCHELL, James — DOB: 2021</p>
+                <p className="text-white text-lg font-mono mt-1">MITCHELL, Sarah — DOB: 2021</p>
               </div>
               <div className="text-right">
                 <p className="text-white/20 text-xs font-mono">File ID</p>
