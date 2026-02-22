@@ -33,7 +33,7 @@ import { NextRequest, NextResponse } from 'next/server'
 
 export async function POST(req: NextRequest) {
   const lines = [
-    "Subject: Sarah Mitchell, male, age 7. Domicile: Bristol, United Kingdom.",
+    "Subject: Sarah Mitchell, female, age 7. Domicile: Bristol, United Kingdom.",
     "Medical profile: Confirmed asthma since age 18 months. ADHD diagnosis confirmed January 2024. Regular medication dependency noted.",
     "Educational status: Enrolled at St Mary's Primary School, Bristol. Academic performance flagged as below average. Behavioural incidents recorded.",
     "Socioeconomic classification: Lower-middle income bracket. Primary earner experienced 18-month unemployment period 2023-2024.",
