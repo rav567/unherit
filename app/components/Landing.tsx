@@ -2,6 +2,7 @@
 
 import { motion, useScroll, useTransform } from 'framer-motion'
 import { useEffect, useState, useRef } from 'react'
+import CaptionAnalyser from './CaptionAnalyser'
 
 export default function Landing({ onStart }: { onStart: () => void }) {
   const [counter, setCounter] = useState(1847293)
@@ -363,7 +364,7 @@ export default function Landing({ onStart }: { onStart: () => void }) {
           </div>
         </div>
       </section>
-
+      <CaptionAnalyser />
       {/* Counter + Final CTA */}
       <section className="border-t border-white/5 px-6 py-24 relative">
         <div className="max-w-2xl mx-auto relative z-10 flex flex-col items-center text-center gap-8">
