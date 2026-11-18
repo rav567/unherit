@@ -1,4 +1,4 @@
-# UNHERIT - Winner
+# UNHERIT
 
 ### *For the generation that never got to say no.*
 
